@@ -6,3 +6,5 @@
 2323
 
 소개글
+
+![이미지 연습](https://kyrieko.dothome.co.kr/images/first.jpg)
